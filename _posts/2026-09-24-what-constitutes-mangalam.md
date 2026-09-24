@@ -6,11 +6,11 @@ date: 2026-09-24
 
 > **सर्वदा मंगलं भवतु**[cite: 1]
 > 
-> **May there be auspiciousness, always.**[cite: 1]
+> **May there be auspiciousness, always.**
 > 
-> **எப்பொழுதும் மங்களம் நிலவட்டும்.**[cite: 1]
+> **எப்பொழுதும் மங்களம் நிலவட்டும்.**
 > 
-> *Starting with these basic questions for today's spiritual reflection.*[cite: 2]
+> *Starting with these basic questions for today's spiritual reflection.*
 
 ---
 
