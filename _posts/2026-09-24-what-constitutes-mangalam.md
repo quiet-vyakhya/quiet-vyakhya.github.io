@@ -8,7 +8,7 @@ date: 2026-09-24
 > 
 > **May there be auspiciousness, always.**[cite: 1]
 > 
-> **எப்பொழுதும் மங்களம் நிலட்டட்டும்.**[cite: 1]
+> **எப்பொழுதும் மங்களம் நிலவட்டும்.**[cite: 1]
 > 
 > *Starting with these basic questions for today's spiritual reflection.*[cite: 2]
 
