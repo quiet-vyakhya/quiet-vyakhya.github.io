@@ -1,8 +1,7 @@
-title: "Your Blog Title"
-description: "Daily reflections on philosophy, poetry, language, and quiet inquiry."
+title: "The Quiet Vyakhya"
+description: "Daily reflections on Vedanta, poetry, language, and quiet inquiry."
 theme: minima
 
-# Ensure full text is included in RSS feeds for offline reading
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
