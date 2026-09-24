@@ -8,7 +8,7 @@ What constitutes Mangalam? Why does the Vedic tradition invoke auspiciousness at
 
 ### 1. What is Mangalam?
 
-Mangalam is far deeper than "good luck." Etymologically, traditional Bhashyas define it through two primary roots...
+Mangalam is far deeper than "good luck." Etymologically, 
 
 What constitutes Mangalam? 
 
