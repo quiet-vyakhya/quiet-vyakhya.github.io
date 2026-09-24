@@ -8,9 +8,9 @@ What constitutes Mangalam? Why does the Vedic tradition invoke auspiciousness at
 
 ### 1. What is Mangalam?
 
-Mangalam is far deeper than "good luck." Etymologically, 
+Mangalam is far deeper than "good luck." Etymologically, it is defined as मङ्गं गालयति इति मङ्गलम् "That which dissolves or melts away inauspiciousness/suffering is Mangalam."
 
-What constitutes Mangalam? 
+### 2. What constitutes Mangalam? 
 
 Why does the Vedic tradition invoke auspiciousness at every step, and why do humans (including Atheists) everywhere instinctively seek benediction or welfare over misery or suffering?
 
