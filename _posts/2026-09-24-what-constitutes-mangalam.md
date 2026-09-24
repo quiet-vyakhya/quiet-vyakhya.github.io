@@ -4,7 +4,7 @@ title: "The Essence of Mangalam: From Sacred Sound to Self-Knowledge"
 date: 2026-09-24
 ---
 
-> **सर्वदा मंगलं भवतु**[cite: 1]
+> **सर्वदा मंगलं भवतु**
 > 
 > **May there be auspiciousness, always.**
 > 
