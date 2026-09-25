@@ -18,3 +18,31 @@
     {% endfor %}
   </ul>
 </div>
+<hr>
+<h3>Calendar</h3>
+<div id="calendar-container">
+  <p>Loading reflection dates...</p>
+</div>
+
+<script>
+  fetch("{{ '/posts-dates.json' | relative_url }}")
+    .then(response => response.json())
+    .then(data => {
+      const container = document.getElementById('calendar-container');
+      if (data.length === 0) {
+        container.innerHTML = "<p>No posts found.</p>";
+        return;
+      }
+      
+      let html = '<ul style="list-style-type: square; padding-left: 1.2rem;">';
+      data.forEach(item => {
+        html += `<li><strong>${item.date}:</strong> <a href="${item.url}">${item.title}</a></li>`;
+      });
+      html += '</ul>';
+      container.innerHTML = html;
+    })
+    .catch(err => {
+      console.error(err);
+      document.getElementById('calendar-container').innerHTML = '';
+    });
+</script>
