@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper" style="display: flex; gap: 2rem; flex-wrap: wrap;">
+        
+        <!-- Main Post / Page Content -->
+        <div class="main-content" style="flex: 1; min-width: 300px;">
+          {{ content }}
+        </div>
+
+        <!-- Sidebar Section -->
+        <aside class="sidebar-container" style="width: 280px;">
+          {%- include sidebar.html -%}
+        </aside>
+
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
