@@ -14,7 +14,7 @@ When humans start conversations, we often take a word, pass it around for genera
 
 If you speak Tamil, or live anywhere in South India where Sanskrit and Dravidian languages share a rich vocabulary, you hear *bodham* or *bodhai* (போதை) used every single day. But almost always in a specific context: intoxication.
 
-When someone drinks too much, we say they are under *bodham*. When someone gets arrogant because of money, power, or position, we say *"Bodhai thalaikku yeriduchchu"* (the intoxication has gone to their head).
+When someone drinks too much, we say they are under *bodhai*. When someone gets arrogant because of money, power, or position, we say *"Bodhai thalaikku yeriduchchu"* (the intoxication has gone to their head).
 
 It sounds almost like a word reserved for stupor, delusion, or losing one's senses. But if you look at where the word actually comes from, the reality is the exact opposite.
 
