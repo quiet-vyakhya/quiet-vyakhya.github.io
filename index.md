@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### My Self Reflections
+### அகக் களத் தியானம் | Inward Contemplations
 
 <ul class="post-list" style="list-style-type: none; padding-left: 0;">
   {% for post in site.posts %}
