@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Recent Reflections
+### My Self Reflections
 
 <ul class="post-list" style="list-style-type: none; padding-left: 0;">
   {% for post in site.posts %}
