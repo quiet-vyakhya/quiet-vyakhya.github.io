@@ -61,7 +61,7 @@ When the Self is recognized not as an isolated individual entity, but as the uni
 
 This convergence is mirrored across traditions. In the Mandukya Upanishad, the true nature of the Self is defined as:
 
-$$\text{शान्तं शिवं अद्वैतम् (Śāntaṁ Śivaṁ Advaitam)}$$
+शान्तं शिवं अद्वैतम् (Śāntaṁ Śivaṁ Advaitam)
 
 *Shantam* (absolute peace), *Shivam* (innate auspiciousness), and *Advaitam* (non-duality). Here, auspiciousness is not an external gift, but the inevitable nature of resting in undivided consciousness.
 
@@ -140,7 +140,7 @@ At their core, both are one and the same. Let there be auspiciousness in everyon
 
 மாண்டூக்ய உபநிடதம் ஆன்மாவின் முழுமையான இயல்பு நிலையை இப்படி வரையறுக்கிறது:
 
-$$\text{शान्तं शिवं अद्वैतम् (Śāntaṁ Śivaṁ Advaitam)}$$
+शान्तं शिवं अद्वैतम् (Śāntaṁ Śivaṁ Advaitam)
 
 *சாந்தம்* (அமைதியானது), *சிவம்* (மங்களமானது), *அத்வைதம்* (இரண்டற்றது). இங்கே மங்களம் என்பது வெளியிலிருந்து தரப்படும் ஒரு பரிசல்ல; அது நம் அக விழிப்பின் இயல்பான நிலையாகும்.
 
