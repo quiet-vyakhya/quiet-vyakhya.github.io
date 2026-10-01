@@ -6,8 +6,8 @@ categories: [Philosophy, Etymology]
 tags: [sanskrit, tamil, philosophy, vedanta, tirukkural, etymology]
 ---
 
-> **"Cakṣuṣaścakṣuḥ"**  
-> *"The Eye behind the eye."*  
+> **चक्षुषश्चक्षुः (Cakṣuṣaścakṣuḥ)"** 
+> *"The Eye behind the eye | கண்ணுக்கெல்லாம் கண்"*  
 > — **Kena Upaniṣad (1.1.2)**
 
 ---
