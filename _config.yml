@@ -1,4 +1,6 @@
 title: "The Quiet Vyakhya"
+url: "https://quiet-vyakhya.github.io"
+baseurl: ""
 author: "Harihara Subramanian"
 description: "My reflections on Vedanta, poetry, language, and quiet inquiry."
 theme: minima
@@ -6,4 +8,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
 future: true
+timezone: Asia/Kolkata
