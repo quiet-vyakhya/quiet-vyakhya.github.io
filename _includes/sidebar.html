@@ -74,59 +74,137 @@
   <p style="font-size: 0.85rem; color: #666;">Loading reflection dates...</p>
 </div>
 
-<script>
-  const jsonUrl = "{{ site.baseurl }}/posts-dates.json";
+<style>
+  .calendar-box {
+    font-family: inherit;
+    max-width: 100%;
+    margin-top: 1rem;
+    padding: 12px;
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+  }
+  .calendar-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 0.9rem;
+  }
+  .calendar-nav button {
+    background: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 2px 8px;
+    cursor: pointer;
+    font-size: 0.85rem;
+  }
+  .calendar-nav button:hover {
+    background: #e0e0e0;
+  }
+  .calendar-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 4px;
+    text-align: center;
+    font-size: 0.85rem;
+  }
+  .calendar-day-head {
+    font-weight: bold;
+    color: #666;
+    padding-bottom: 4px;
+  }
+  .calendar-day {
+    padding: 6px 0;
+    border-radius: 4px;
+    background: #f8f9fa;
+    color: #aaa;
+  }
+  .calendar-day.has-post {
+    background: #2e7d32;
+    font-weight: bold;
+  }
+  .calendar-day.has-post a {
+    color: #ffffff !important;
+    text-decoration: none;
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+  .calendar-day.empty {
+    background: transparent;
+  }
+</style>
 
-  fetch(jsonUrl)
-    .then(response => {
-      if (!response.ok) {
-        throw new Error("HTTP error " + response.status);
+<h3>Calendar</h3>
+<div id="calendar-container">
+  <p style="font-size: 0.85rem; color: #666;">Loading reflection dates...</p>
+</div>
+
+<script>
+  let currentNavDate = new Date();
+  let globalPostsMap = {};
+
+  function renderCalendar(dateObj) {
+    const year = dateObj.getFullYear();
+    const month = dateObj.getMonth();
+
+    const monthNames = ["January", "February", "March", "April", "May", "June", 
+                        "July", "August", "September", "October", "November", "December"];
+
+    const firstDay = new Date(year, month, 1).getDay();
+    const daysInMonth = new Date(year, month + 1, 0).getDate();
+
+    let html = `<div class="calendar-box">`;
+    html += `<div class="calendar-nav">`;
+    html += `<button onclick="changeMonth(-1)">&lt;</button>`;
+    html += `<span>${monthNames[month]} ${year}</span>`;
+    html += `<button onclick="changeMonth(1)">&gt;</button>`;
+    html += `</div>`;
+    
+    html += `<div class="calendar-grid">`;
+
+    const dayHeads = ["Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"];
+    dayHeads.forEach(d => {
+      html += `<div class="calendar-day-head">${d}</div>`;
+    });
+
+    for (let i = 0; i < firstDay; i++) {
+      html += `<div class="calendar-day empty"></div>`;
+    }
+
+    for (let day = 1; day <= daysInMonth; day++) {
+      const dayStr = String(day).padStart(2, '0');
+      const monthStr = String(month + 1).padStart(2, '0');
+      const dateKey = `${year}-${monthStr}-${dayStr}`;
+
+      if (globalPostsMap[dateKey]) {
+        html += `<div class="calendar-day has-post"><a href="${globalPostsMap[dateKey]}" title="View reflection">${day}</a></div>`;
+      } else {
+        html += `<div class="calendar-day">${day}</div>`;
       }
+    }
+
+    html += `</div></div>`;
+    document.getElementById('calendar-container').innerHTML = html;
+  }
+
+  function changeMonth(offset) {
+    currentNavDate.setMonth(currentNavDate.getMonth() + offset);
+    renderCalendar(currentNavDate);
+  }
+
+  fetch("{{ '/posts-dates.json' | relative_url }}")
+    .then(response => {
+      if (!response.ok) throw new Error("HTTP " + response.status);
       return response.json();
     })
     .then(posts => {
-      const postMap = {};
       posts.forEach(p => {
-        postMap[p.date] = p.url;
+        globalPostsMap[p.date] = p.url;
       });
-
-      const now = new Date();
-      const year = now.getFullYear();
-      const month = now.getMonth(); 
-
-      const monthNames = ["January", "February", "March", "April", "May", "June", 
-                          "July", "August", "September", "October", "November", "December"];
-
-      const firstDay = new Date(year, month, 1).getDay();
-      const daysInMonth = new Date(year, month + 1, 0).getDate();
-
-      let html = `<div class="calendar-box">`;
-      html += `<div class="calendar-header">${monthNames[month]} ${year}</div>`;
-      html += `<div class="calendar-grid">`;
-
-      const dayHeads = ["Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"];
-      dayHeads.forEach(d => {
-        html += `<div class="calendar-day-head">${d}</div>`;
-      });
-
-      for (let i = 0; i < firstDay; i++) {
-        html += `<div class="calendar-day empty"></div>`;
-      }
-
-      for (let day = 1; day <= daysInMonth; day++) {
-        const dayStr = String(day).padStart(2, '0');
-        const monthStr = String(month + 1).padStart(2, '0');
-        const dateKey = `${year}-${monthStr}-${dayStr}`;
-
-        if (postMap[dateKey]) {
-          html += `<div class="calendar-day has-post"><a href="${postMap[dateKey]}" title="View reflection">${day}</a></div>`;
-        } else {
-          html += `<div class="calendar-day">${day}</div>`;
-        }
-      }
-
-      html += `</div></div>`;
-      document.getElementById('calendar-container').innerHTML = html;
+      renderCalendar(currentNavDate);
     })
     .catch(err => {
       console.error("Error loading calendar dates:", err);
