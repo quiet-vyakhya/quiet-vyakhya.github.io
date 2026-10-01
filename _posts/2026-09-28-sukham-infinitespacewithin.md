@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sukham: The Infinite Space Within"
+title: "Sukham: The Infinite Space Within | சுகம்: எல்லையற்ற உணர்வு வெளி"
 date: 2026-09-28
 categories: [spirituality, reflection]
 tags: [sanskrit, vedanta, sukham, tamil, upanishads, etymology]
