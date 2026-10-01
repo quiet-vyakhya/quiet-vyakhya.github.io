@@ -8,20 +8,20 @@
     {%- include header.html -%}
 
     <main class="page-content" aria-label="Content">
-      <div class="wrapper" style="display: flex; gap: 2rem; flex-wrap: wrap;">
-        
-        <!-- Main Post / Page Content -->
-        <div class="main-content" style="flex: 1; min-width: 300px;">
-          {{ content }}
-        </div>
+  <div class="wrapper" style="display: flex; gap: 2rem; flex-wrap: wrap;">
+    
+    <!-- Main Content -->
+    <div class="main-content" style="flex: 1 1 600px; min-width: 0;">
+      {{ content }}
+    </div>
 
-        <!-- Sidebar Section -->
-        <aside class="sidebar-container" style="width: 280px;">
-          {%- include sidebar.html -%}
-        </aside>
+    <!-- Sidebar Container -->
+    <aside class="sidebar-container" style="flex: 0 0 280px; width: 280px;">
+      {%- include sidebar.html -%}
+    </aside>
 
-      </div>
-    </main>
+  </div>
+</main>
 
     {%- include footer.html -%}
 <script data-goatcounter="https://quiet-vyakhya.goatcounter.com/count"
