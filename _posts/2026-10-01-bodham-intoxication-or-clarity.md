@@ -1,9 +1,17 @@
 ---
 layout: post
-title: "Bodham: Intoxication or Clarity?"
+title: "Bodham: Intoxication or Clarity? | போதை அல்லது போதம்: தெளிவா மயக்கமா?"
 date: 2026-10-01
 ---
-
+> **போதநடு வூடிருந்த வெண்ணிலாவே - மலப்**  
+> **போதமற வேண்டுகின்றேன் வெண்ணிலாவே!**
+>
+> *bōthanaṭu vūṭiruntha veṇṇilāvē - malap*  
+> *bōthamara vēṇṭukinrēn veṇṇilāvē!*
+>
+> O White Moon shining in the center of pure awareness! I pray unto you, for the complete eradication of my ego-clouded intellect
+> ெய்ஞான உணர்வின் நடுவே ஒளிவீசும் வெண்ணிலவே! எனது மும்மலங்களால் கட்டுண்ட அகந்தை அறிவு (மலபோதம்) முற்றிலும் நீங்கிட அருள வேண்டும் என்று உன்னிடம் வேண்டுகிறேன் வெண்ணிலவே!
+> 
 # Bodhai or Bodham: Clarity or Intoxication?
 
 When we speak of intoxication, we usually mean a state of dullness or stupor: drinking alcohol or using substances that cloud our intellect, affect our nerves, and leave our mind disoriented. But when we look at its true root, the word *Bodham* or *Bodhai* was originally used to signify the exact opposite: the ultimate clarity of wisdom (*Jnana-thelivu*).
@@ -70,21 +78,31 @@ So while it is a misuse, it is not completely out of scope. **It is like trying 
 
 In Tamil literature, especially in Saiva Siddhanta and Bhakti poetry, *Bodham* (போதம்) occupies a fascinating middle ground. It is used to contrast limited human ego-intellect (*Pasu-Bodham*) with Divine Illumination (*Siva-Bodham*).
 
-Saint Tayumanavar constantly speaks about transcending this limited ego-bound *bodham* to reach true silence (*Mounam*):
+Saint Tayumanavar, in his famous *Ennaṭkāṇi* (*எந்நாட்கண்ணி*), yearns for the day when the individual ego-awareness (*bodham*) completely dissolves into supreme bliss:
 
-> **"போதமாய் நின்ற நிலையும் போதமற்று"**  
-> *(Pōthamāy nindra nilaiyum pōthamattru)*
+> **போதமாய் நின்ற நிலையும்போய்ப் போதமற்று**  
+> **நாதாந்த மோன நிருவிகற்பத் துள்ளாகி**  
+> **வாதாதி யற்ற பரானந்த வெள்ளத்தே**  
+> **ஏதாதி யின்றி யிருப்பதுவே எந்நாளோ?**
 >
-> **Meaning:** Transcending even the state of individual ego-awareness (*bodham*) into a state where that limited intellect ceases completely.
-
-In his *Anandakkali*, he writes:
-
-> **"போதமற நின்ற புண்ணியர்"**  
-> *(Pōthamara nindra puṇṇiyar)*
+> *bōthamāy nindra nilaiyumpōyp pōthamattru*  
+> *nāthānta mōna nirvikalpath thuḷḷāki*  
+> *vāthāthi yattra parānanta veḷḷaththē*  
+> *ēthāthi yinri yirupputhuvē ennāḷō?*
 >
-> **Meaning:** The holy ones who stand firm, having completely relinquished their ego-centered intelligence (*bodham*).
+> **Meaning:** Ah, when will the day come when even the state of being an individual consciousness (*bodham*) disappears into a state devoid of ego-awareness, merging into the silent, unconditioned state beyond Nāda, and resting without any limitation in the ocean of supreme bliss free from all polemics?
 
-Tirumular in *Tirumandiram* uses it for the descent of Grace: *"போதம் புகுந்து சிவமய மாக்கி"* (When divine realization enters, it transforms everything into the nature of Siva).
+In the same lineage of divine wisdom, Ramalinga Swamigal (Vallalar) in his *Tiruvarutpa* (*Vennilak Kanni* / *வெண்ணிலாக் கண்ணி*) addresses the moon, praying for the eradication of the binding impurities of ego-bound intellect (*mala-bodham*):
+
+> **போதநடு வூடிருந்த வெண்ணிலாவே - மலப்**  
+> **போதமற வேண்டுகின்றேன் வெண்ணிலாவே!**
+>
+> *bōthanaṭu vūṭiruntha veṇṇilāvē - malap*  
+> *bōthamara vēṇṭukinrēn veṇṇilāvē!*
+>
+> **Meaning:** O White Moon shining in the center of pure awareness! I pray unto you, O White Moon, for the complete eradication of my ego-clouded intellect (*mala-bodham*)!
+
+Tirumular in *Tirumandiram* similarly speaks of this divine awakening: *"போதம் புகுந்து சிவமய மாக்கி"* (When divine realization enters, it transforms everything into the nature of Siva).
 
 Even the foundational Saiva Siddhanta text by Meykandar is titled **Sivajnana Bodham**, meaning the awakening or instruction into the Knowledge of Siva, guiding the soul out of bondage into union with the Divine.
 
@@ -160,17 +178,21 @@ Om shantih shantih shantih
 
 தமிழ் இலக்கியத்தில், குறிப்பாகச் சைவ சித்தாந்தத்திலும் பக்தி இலக்கியத்திலும், *போதம்* எனும் சொல் ஒரு சுவாரசியமான நடுநிலையை வகிக்கிறது. இது மனிதனின் எல்லைக்குட்பட்ட அகந்தை அறிவையும் (*பசு போதம்*), இறைவனின் பேரறிவையும் (*சிவ போதம்*) வேறுபடுத்திக் காட்டப் பயன்படுகிறது.
 
-தாயுமானவ சுவாமிகள், இந்த எல்லைக்குட்பட்ட அகந்தை போதத்தைக் கடந்து மெளன நிலையை அடைவதைப் பற்றித் தொடர்ந்து பேசுகிறார்:
+தாயுமானவ சுவாமிகள், தமது *எந்நாட்கண்ணி* பாடலில், தனிமனித அகந்தை அறிவாகிய போதம் நீங்கி, பரானந்த வெள்ளத்தில் திளைக்கும் அந்த மெளன நிலையை எந்நாளில் அடைவேனோ என்று ஏங்குகிறார்:
 
-> **"போதமாய் நின்ற நிலையும் போதமற்று"**
+> **போதமாய் நின்ற நிலையும்போய்ப் போதமற்று**  
+> **நாதாந்த மோன நிருவிகற்பத் துள்ளாகி**  
+> **வாதாதி யற்ற பரானந்த வெள்ளத்தே**  
+> **ஏதாதி யின்றி யிருப்பதுவே எந்நாளோ?**
 >
-> **பொருள்:** தனிமனித அகந்தை அறிவாக (*போதம்*) நின்ற நிலையையும் கடந்து, அந்த எல்லைக்குட்பட்ட அறிவு அற்ற நிலையை அடைவது.
+> **பொருள்:** ஆன்மாவின் தனிப்பட்ட அகந்தை அறிவாகிய போத நிலையும் ஒழிந்து, போதமற்றதாகி, நாதாந்த மௌன நிருவிகற்ப நிலையை அடைந்து, வாதங்களற்ற பரானந்த வெள்ளத்தில் எந்தவிதக் தடையுமின்றி நிலைத்திருப்பது எந்நாளோ?
 
-அவர் தனது *ஆனந்தக்களி* பாடலில் இவ்வாறு எழுதுகிறார்:
+அதே ஆன்மீக வழிவந்த ராமலிங்க அடிகளார் (வள்ளலார்), தமது திருவருட்பாவில் *வெண்ணிலாக் கண்ணி* பகுதியில், ஆன்ம விழிப்புணர்வின் நடுவே விளங்கும் சந்திரனை விளித்து, அகந்தைச் சார்புடைய 'மலபோதம்' நீங்க வேண்டுமென்று வேண்டுகிறார்[cite: 1]:
 
-> **"போதமற நின்ற புண்ணியர்"**
+> **போதநடு வூடிருந்த வெண்ணிலாவே - மலப்**  
+> **போதமற வேண்டுகின்றேன் வெண்ணிலாவே!**[cite: 1]
 >
-> **பொருள்:** தம்முடைய அகந்தை அறிவை (*போதம்*) முற்றிலும் துறந்து உறுதியாக நின்ற புண்ணியவான்கள்.
+> **பொருள்:** மெய்ஞான உணர்வின் நடுவே ஒளிவீசும் வெண்ணிலவே! எனது மும்மலங்களால் கட்டுண்ட அகந்தை அறிவு (மலபோதம்) முற்றிலும் நீங்கிட அருள வேண்டும் என்று உன்னிடம் வேண்டுகிறேன் வெண்ணிலவே!
 
 திருமூலர் *திருமந்திரத்தில்* அருள் இறங்குதலைக் குறிக்க இச்சொல்லைப் பயன்படுத்துகிறார்: *"போதம் புகுந்து சிவமய மாக்கி"* (இறை அறிவு புகும்போது, அது அனைத்தையும் சிவமயமாக மாற்றுகிறது).
 
