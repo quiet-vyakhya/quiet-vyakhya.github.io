@@ -5,6 +5,7 @@ layout: default
 ### அகக் களத் தியானம் | Inward Contemplations
 *வேதாந்தம், கவிதை, இன்ன பிற மொழிநடைகள் குறித்த அகக் களத் தியானம்.*  
 *Inward contemplations on Vedanta, poetry, and nuances of language.*
+
 ---
 <ul class="post-list" style="list-style-type: none; padding-left: 0; margin-top: 2rem;">
   {% for post in site.posts %}
