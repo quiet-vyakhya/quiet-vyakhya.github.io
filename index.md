@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Inward Contemplations | அகக் களத் தியானம்
-*Inward contemplations on Vedanta, poetry, and nuances of language.*
+*Inward contemplations on Vedanta, poetry, and nuances of language.* |
 *வேதாந்தம், கவிதை, இன்ன பிற மொழிநடைகள் குறித்த அகக் களத் தியானம்.* 
 
 ---
