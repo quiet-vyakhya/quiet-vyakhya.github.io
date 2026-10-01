@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Essence of Mangalam: From Sacred Sound to Self-Knowledge"
+title: "The Essence of Mangalam: From Sacred Sound to Self-Knowledge | மங்கலத்தின் மெய்ப்பொருள்: புனித ஓசையிலிருந்து ஆத்மஞானம் வரை"
 date: 2026-09-24
 ---
 
