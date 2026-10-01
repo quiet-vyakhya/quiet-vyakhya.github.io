@@ -6,13 +6,12 @@ categories: [Philosophy, Etymology]
 tags: [sanskrit, tamil, philosophy, vedanta, tirukkural, etymology]
 ---
 
-# Two Windows of Vision: Cakṣu and Nayana
-
 > **"Cakṣuṣaścakṣuḥ"**  
 > *"The Eye behind the eye."*  
 > — **Kena Upaniṣad (1.1.2)**
 
 ---
+# Two Windows of Vision: Cakṣu and Nayana
 
 We tend to think of the eye as just a camera that captures light.
 
