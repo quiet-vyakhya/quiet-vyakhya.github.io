@@ -75,8 +75,15 @@
 </div>
 
 <script>
-  fetch("{{ '/posts-dates.json' | relative_url }}")
-    .then(response => response.json())
+  const jsonUrl = "{{ site.baseurl }}/posts-dates.json";
+
+  fetch(jsonUrl)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error("HTTP error " + response.status);
+      }
+      return response.json();
+    })
     .then(posts => {
       const postMap = {};
       posts.forEach(p => {
