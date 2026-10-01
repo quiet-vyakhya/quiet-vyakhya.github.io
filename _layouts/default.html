@@ -7,16 +7,16 @@
 
     {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">
-  <div class="wrapper" style="display: flex; gap: 2rem; flex-wrap: wrap;">
+<main class="page-content" aria-label="Content">
+  <div class="wrapper" style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start;">
     
-    <!-- Main Content -->
+    <!-- Main Content Area -->
     <div class="main-content" style="flex: 1 1 600px; min-width: 0;">
       {{ content }}
     </div>
 
-    <!-- Sidebar Container -->
-    <aside class="sidebar-container" style="flex: 0 0 280px; width: 280px;">
+    <!-- Sidebar Section -->
+    <aside class="sidebar-container" style="flex: 0 0 280px; width: 280px; max-width: 100%;">
       {%- include sidebar.html -%}
     </aside>
 
