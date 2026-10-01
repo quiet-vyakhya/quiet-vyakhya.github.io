@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: "Bodhai: Clarity Beyond Intoxication | போதை எனும் தெளிவு"
+title: "Bodham: Intoxication or Clarity?"
 date: 2026-10-01
 ---
 
