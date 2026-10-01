@@ -1,8 +1,8 @@
-title: "The Quiet Vyakhya"
+title: "மௌன வியாக்கியானம் | The Quiet Vyakhya"
+author: "Harihara Subramanian"
+description: "வேதாந்தம், கவிதை, இன்ன பிற மொழிநடைகள் குறித்த அகக் களத் தியானம். | Inward contemplations on Vedanta, poetry, and nuances of language."
 url: "https://quiet-vyakhya.github.io"
 baseurl: ""
-author: "Harihara Subramanian"
-description: "My reflections on Vedanta, poetry, language, and quiet inquiry."
 theme: minima
 
 plugins:
