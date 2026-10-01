@@ -5,12 +5,8 @@ date: 2026-10-01
 ---
 > **போதநடு வூடிருந்த வெண்ணிலாவே - மலப்**  
 > **போதமற வேண்டுகின்றேன் வெண்ணிலாவே!**
->
-> *bōthanaṭu vūṭiruntha veṇṇilāvē - malap*  
-> *bōthamara vēṇṭukinrēn veṇṇilāvē!*
->
 > O White Moon shining in the center of pure awareness! I pray unto you, for the complete eradication of my ego-clouded intellect
-> ெய்ஞான உணர்வின் நடுவே ஒளிவீசும் வெண்ணிலவே! எனது மும்மலங்களால் கட்டுண்ட அகந்தை அறிவு (மலபோதம்) முற்றிலும் நீங்கிட அருள வேண்டும் என்று உன்னிடம் வேண்டுகிறேன் வெண்ணிலவே!
+> ெமய்ஞான உணர்வின் நடுவே ஒளிவீசும் வெண்ணிலவே! எனது மும்மலங்களால் கட்டுண்ட அகந்தை அறிவு (மலபோதம்) முற்றிலும் நீங்கிட அருள வேண்டும் என்று உன்னிடம் வேண்டுகிறேன் வெண்ணிலவே!
 > 
 # Bodhai or Bodham: Clarity or Intoxication?
 
