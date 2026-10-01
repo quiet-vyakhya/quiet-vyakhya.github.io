@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Sacred Etymology and Significance of Suprabhatam"
+title: "The Sacred Etymology and Significance of Suprabhatam | விடியல்: ஒரு புனிதமான ஆன்மீகத் தொடக்கம்"
 date: 2026-09-25
 categories: [spirituality, reflection]
 tags: [sanskrit, vedanta, suprabhatam, tamil]
