@@ -24,6 +24,16 @@
 <!-- Main Left Content Area -->
 <div class="main-content" style="flex: 1 1 550px; min-width: 0; max-width: 100%;">
   {{ content }}
+     {% if page.layout == "post" %}
+        <footer class="post-disclaimer" style="margin-top: 3rem; padding-top: 1rem; border-top: 1px dashed #ccc; font-size: 0.85rem; color: #666; line-height: 1.5;">
+          <p style="margin-bottom: 0.4rem;">
+            <strong>குறிப்பு:</strong> மேற்கோள்கள் மற்றும் மூல நூல்கள் தவிர்த்து, இப்பதிவில் உள்ள விளக்கங்கள் அனைத்தும் தனிப்பட்ட அகக் களத் தியானம் சார்ந்த சிந்தனைகளே.
+          </p>
+          <p style="margin: 0;">
+            <strong>Note:</strong> Except for direct textual citations, the interpretations and philosophical reflections presented here are personal interior contemplations (*Aga-kalam*).
+          </p>
+        </footer>
+      {% endif %}
 </div>
 
     <!-- Right Sidebar Section -->
