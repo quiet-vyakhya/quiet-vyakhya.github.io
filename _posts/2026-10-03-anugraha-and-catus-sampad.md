@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anugraha & Catuṣ-Sampad | அருட்துளியும் நன்மைகள் நான்கும்"
+title: "Anugraha & Catuṣ-Sampad | அருட்துளியும் நால்வகைச் செல்வமும்"
 date: 2026-10-03
 categories: [etymology, philosophy]
 tags: [sanskrit, advaita, vyakhya, grace, sadguru, satsangham, right birth, right practices]
@@ -11,7 +11,7 @@ tags: [sanskrit, advaita, vyakhya, grace, sadguru, satsangham, right birth, righ
 Before reading these two verses I scribbled, two key terms must be defined clearly to prevent common misunderstandings:
 
 1. **`Janmānukūlyam` (Conducive Birth & Environment):**  
-   This has **nothing to do** with being born into a specific caste, high social status, wealth, or elite family lineage. It refers strictly to any environment, life situation, or turning point—no matter how humble or difficult—that acts as a fertile ground for inner growth, self-inquiry, and real change.
+   This has **nothing to do** with being born into a specific caste, high social status, wealth, or elite family lineage. It refers strictly to any environment, life situation, or turning point (no matter how humble or difficult) that acts as a fertile ground for inner growth, self-inquiry, and real change.
 
 2. **`Moho Yāti Kṣaṇam Eva Hi` (The Momentary Rift in Delusion):**  
    This is not mere intellectual knowledge or reading about truth in a book. It refers to a genuine, direct experience where the fog of confusion and ignorance lifts, even if only for a brief moment.
@@ -42,23 +42,21 @@ If my delusion receded even for a single moment, it was purely by the Grace of t
 > *mārganiṣṭhā ca labhyate kevalaṁ tadanugrahāt ||*
 
 **Simple Translation:**  
-The True Master (*sadguru*), noble company (*satsaṅga*), a life situation conducive to transformation (*svānukūlyaṁ janmani*), and unwavering steadfastness on the path (*mārganiṣṭhā*)—all four are attained solely through His divine grace.
+The True Master (*sadguru*), noble company (*satsaṅga*), a life situation conducive to transformation (*svānukūlyaṁ janmani*), and unwavering steadfastness on the path (*mārganiṣṭhā*): all four are attained solely through His divine grace.
 
 ---
 
 ## Explaining the Logic
 
-### 1. If the Biggest Barrier Drops, the Rest Follows
-Delusion (*moha*) is the hardest thing in human life to break. Books, arguments, and sheer willpower often fail to remove it. 
-
-The logic here is simple: if divine grace is strong enough to achieve the hardest task—lifting the thick fog of delusion, even for a single moment—then the smaller structural supports are guaranteed. Getting a good teacher, finding supportive friends, being in the right environment, and staying focused on the path are not separate, difficult accomplishments. They are simple, natural side-effects of that grace.
+### 1. If the Greatest Barrier Drops, What Else Can Remain Unachieved?
+The underlying logic is remarkably simple: if the thick fog of delusion lifts even for a single moment, it could only have happened by a drop of divine grace. That being so, for one who is blessed with that grace, what among the fourfold supports on the spiritual path can ever remain unachieved? Even these supports (a true guide, noble company, a conducive life situation, and unwavering steadfastness) are not separate, laborious achievements in themselves. They are simply the natural side-effects of that divine grace.
 
 ### 2. "Stepping Aside" as the Entry Point
 Notice the specific use of **`Yāti`** (stepping aside / receding) rather than complete destruction:
 Grace first creates a temporary breach in our confusion. That brief moment of clarity opens our eyes and makes us realize we need to stay firm on the path (*mārganiṣṭhā*) so that temporary clarity becomes permanent realization.
 
 ### 3. Real Wealth (*Sampad*)
-The four elements—the teacher, good company, helpful circumstances, and inner discipline—are categorized as **`Sampad`** (true wealth). They are called "wealth" because their sole purpose is to protect that brief flash of clarity until it becomes an unshakable way of living.
+The four elements (the teacher, good company, helpful circumstances, and inner discipline) are categorized as **`Sampad`** (true wealth). They are called "wealth" because their sole purpose is to protect that brief flash of clarity until it becomes an unshakable way of living.
 
 **Om Shanti Shantih Shantih**
 
@@ -84,7 +82,7 @@ The four elements—the teacher, good company, helpful circumstances, and inner 
 > **किमु तस्याः विना लब्धुं चतुर्विधमिदं पदम्॥**
 
 > *ஈசக்ருபயைவ மோஹோ யாதி மே க்ஷணமேவ ஹி |*  
-> *கிமு தஸ்யாஃ வினா லப்தும் சதுர்விதமிதம் பதம்||*
+> *கிமு தஸ்யாஃ வினா லப்தும் சதுர்விதமிதம் பதம் ||*
 
 **எளிய உரை:**  
 என் அறியாமை (மயக்கம்) ஒரு கணப்பொழுதேனும் என்னை விட்டு விலகியது என்றால், அது ஈசனின் பேரருளால் மட்டுமே சாத்தியமாயிற்று. அந்த அருளின்றி, நான்கு விதமான இந்த ஆன்மீகப் பேறுகளை அடைவது தான் எப்படிச் சாத்தியமாகும்?
@@ -107,9 +105,7 @@ The four elements—the teacher, good company, helpful circumstances, and inner 
 ## தர்க்க விளக்கம்
 
 ### 1. பெரிய தடை அகன்றால், சிறியவை தானாக அமையும்
-மனித வாழ்வில் அறியாமையையும் மயக்கத்தையும் (*மோஹம்*) உடைப்பது தான் மிகக் கடினமான காரியம். புத்தகங்களோ, விவாதங்களோ, சுய முயற்சியோ கூடப் பல நேரங்களில் தோற்றுவிடும். 
-
-இதன் தர்க்கம் மிகவும் எளிதானது: தடிமனான அறியாமைத் திரையை ஒரு கணப்பொழுதேனும் விலக்கும் ஆற்றல் இறைவருளுக்கு உண்டு என்றால், ஆன்மீகப் பாதைக்குத் தேவையான ஏனைய உறுதுணைகள் தானாகவே கைகூடும். நல்வழி காட்டும் குரு, நல்லோர் சேர்க்கை, உகந்த சூழ்நிலை, தளர்வில்லாத உறுதி ஆகிய யாவும் தனித்தனி கடினமான சாதனைகள் அல்ல; அவை இறைவருளின் இயல்பான பக்கவிளைவுகளே.
+இதன் தர்க்கம் மிகவும் எளிதானது: கணப்பொழுதேனும் தடிமனான அறியாமைத் திரை விலகுமென்றால் அது துளியேனும் இறையருளால் ஏற்பட்டதேயாகும். அவ்வாறிருக்க, ஆன்மீகப் பாதைக்குத் தேவையான ஏனைய நால்வகை உறுதுணைகள் உள்ளவருக்கு எதுதான் கைகூடாது? அவைகளுங்கூட (நல்வழி காட்டும் குரு, நல்லோர் சேர்க்கை, உகந்த சூழ்நிலை, தளர்வில்லாத உறுதி ஆகிய யாவும்) தனித்தனி கடினமான சாதனைகள் அல்ல; அவை இறைவருளின் இயல்பான பக்கவிளைவுகளே.
 
 ### 2. "விலகுதல்" (याति) எனும் தொடக்கப்புள்ளி
 Permanent ஆக முழுமையாக அழிவது (*நாசம்*) என்பதை விட, "விலகிச் செல்கிறது" (*யாதி*) என்ற சொல் பயன்படுத்தப்பட்டதன் காரணம்:
@@ -118,3 +114,4 @@ Permanent ஆக முழுமையாக அழிவது (*நாசம�
 ### 3. ஆன்மீகச் செல்வம் (சம்பத்து)
 சத்குரு, சத்சங்கம், உகந்த சூழ்நிலை, மார்க்கநிஷ்டை ஆகிய நான்கையும் **`சம்பத்து`** (மெய்ச்செல்வம்) என்ற சொல் குறிக்கிறது. இறைவருளால் கிடைத்த அந்த ஒரு கணத் தெளிவை, அது நிலையான வாழ்வியலாக மாறும் வரை பாதுகாப்பதே இந்த நான்கு செல்வங்களின் ஒரே நோக்கம்.
 
+** ஓம் சாந்தி சாந்தி சாந்திஃ**
