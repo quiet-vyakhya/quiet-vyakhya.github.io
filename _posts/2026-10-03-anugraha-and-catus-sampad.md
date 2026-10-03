@@ -8,7 +8,7 @@ tags: [sanskrit, advaita, vyakhya, grace, sadguru, satsangham, right birth, righ
 
 ## Setting the Boundaries
 
-Before reading these two verses I scribbled, two key terms must be defined clearly to prevent common misunderstandings:
+Before reading these two verses, two key terms must be defined clearly to prevent common misunderstandings:
 
 1. **`Janmānukūlyam` (Conducive Birth & Environment):**  
    This has **nothing to do** with being born into a specific caste, high social status, wealth, or elite family lineage. It refers strictly to any environment, life situation, or turning point (no matter how humble or difficult) that acts as a fertile ground for inner growth, self-inquiry, and real change.
@@ -64,7 +64,7 @@ The four elements (the teacher, good company, helpful circumstances, and inner d
 
 ## எல்லைகளை வரையறுத்தல்
 
-நான் வரித்த இந்த இரு ஸ்லோகங்களை வாசிப்பதற்கு முன், தவறான புரிதல்களைத் தவிர்க்க இரு முக்கியச் சொற்களுக்கான தெளிவான எல்லைகளை நாம் அமைத்துக் கொள்ள வேண்டும்:
+இந்த இரு ஸ்லோகங்களை வாசிப்பதற்கு முன், தவறான புரிதல்களைத் தவிர்க்க இரு முக்கியச் சொற்களுக்கான தெளிவான எல்லைகளை நாம் அமைத்துக் கொள்ள வேண்டும்:
 
 1. **`ஜந்மானு கூல்யம்` (அகமாற்றத்திற்கு உகந்த சூழ்நிலை/பிறவி):**  
    இதற்கும் ஒரு குறிப்பிட்ட சாதி, உயர்ந்த சமூக அந்தஸ்து, செல்வம் அல்லது உயர் குடும்பப் பின்னணியில் பிறப்பதற்கும் **எந்தச் சம்பந்தமும் இல்லை**. ஒருவரது அகவளர்ச்சிக்கும், சுயவிசாரணைக்கும், உண்மை மாற்றத்திற்கும் வித்திடும் எந்தவொரு எளிய அல்லது சவாலான சூழ்நிலையையும், வாழ்வின் திருப்பத்தையும் மட்டுமே இது குறிக்கிறது.
