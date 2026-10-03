@@ -5,7 +5,8 @@ date: 2026-10-03
 categories: [etymology, philosophy]
 tags: [sanskrit, advaita, vyakhya, grace, sadguru, satsangham, right birth, right practices]
 ---
-
+ईशकृपयैव मोहो याति मे क्षणमेव हि
+If my delusion receded even for a single moment, it was purely by the Grace of the Lord alone.
 ## Setting the Boundaries
 
 Before reading these two verses, two key terms must be defined clearly to prevent common misunderstandings:
